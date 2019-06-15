@@ -7,10 +7,7 @@ Onewallet URL Scheme starts with `onewallet://`, as shown in the following URL s
 
 You can specify the type of feature in actionPath, and required parameters for each feature in `parameter=value`. Refer to the description of parameters for each feature, for more information.
 
-
 <br>
-<br>
-
 
 ### Add Card
 Go to the automatically added card addition screen.
