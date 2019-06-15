@@ -1,1 +1,5 @@
 # OneWallet-Android
+
+-----------------------------------
+
+Link protocol
