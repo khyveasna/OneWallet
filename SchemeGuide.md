@@ -1,22 +1,24 @@
 ## OneWallet Scheme Guide
 
 
-## Basic information
+### Basic information
 
 Onewallet URL Scheme starts with `onewallet://`, as shown in the following URL structure.
 
 You can specify the type of feature in actionPath, and required parameters for each feature in `parameter=value`. Refer to the description of parameters for each feature, for more information.
 
 
+<br>
 
-### Add Card
+
+#### Add Card
 Go to the automatically added card addition screen.
 
-#### Action path
+##### Action path
 > input  
 
 
-#### Parameter
+##### Parameter
 | Parameter | Type | Required | Description |
 | ------ | ------ | ------ | ------ |
 | number | string | Y |  CodeNumber | 
@@ -32,7 +34,7 @@ Go to the automatically added card addition screen.
 
 
    
-#### Example
+##### Example
 
 [onewallet://input/number=1234567890123456789&logo_url=https://firebasestorage.googleapis.com/v0/b/mywallet-21196.appspot.com/o/bi%2Fonewallet.png?alt=media&token=080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle
 ](onewallet://input/number=1234567890123456789&logo_url=https://firebasestorage.googleapis.com/v0/b/mywallet-21196.appspot.com/o/bi%2Fonewallet.png?alt=media&token=080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle)
