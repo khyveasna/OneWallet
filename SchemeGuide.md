@@ -38,8 +38,8 @@ Go to the automatically added card addition screen.
    
 ##### Example
 
-[onewallet://input/number=1234567890123456789&logo_url=https://firebasestorage.googleapis.com/v0/b/mywallet-21196.appspot.com/o/bi%2Fonewallet.png?alt=media&token=080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle
-](onewallet://input/number=1234567890123456789&logo_url=https://firebasestorage.googleapis.com/v0/b/mywallet-21196.appspot.com/o/bi%2Fonewallet.png?alt=media&token=080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle)
+[onewallet://input/number=1234567890123456789&logo_url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fmywallet-21196.appspot.com%2Fo%2Fbi%252Fonewallet.png%3Falt%3Dmedia%26token%3D080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle
+](onewallet://input/number=1234567890123456789&logo_url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fmywallet-21196.appspot.com%2Fo%2Fbi%252Fonewallet.png%3Falt%3Dmedia%26token%3D080aed6b-e5de-4958-8271-bf3a577e7699&background_color=EEEEEE&title=TextTitle)
 
 
 
