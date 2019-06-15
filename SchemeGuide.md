@@ -9,15 +9,17 @@ You can specify the type of feature in actionPath, and required parameters for e
 
 
 <br>
+<br>
 
 
-#### Add Card
+### Add Card
 Go to the automatically added card addition screen.
 
 ##### Action path
 > input  
 
 
+<br>
 ##### Parameter
 | Parameter | Type | Required | Description |
 | ------ | ------ | ------ | ------ |
