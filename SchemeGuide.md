@@ -19,7 +19,7 @@ Go to the automatically added card addition screen.
 > input  
 
 
-<br>
+
 ##### Parameter
 | Parameter | Type | Required | Description |
 | ------ | ------ | ------ | ------ |
@@ -34,7 +34,7 @@ Go to the automatically added card addition screen.
 
 
 
-
+<br>
    
 ##### Example
 
