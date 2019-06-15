@@ -24,7 +24,7 @@ Go to the automatically added card addition screen.
 | Parameter | Type | Required | Description |
 | ------ | ------ | ------ | ------ |
 | number | string | Y |  CodeNumber | 
-| code_type | string | N(default = CODE_128) |  CodeType, [CODE_128, QR_CODE, PDF_417, AZTEC] | 
+| code_type | string | N(default = CODE_128) |  CodeType [CODE_128, QR_CODE, PDF_417, AZTEC] | 
 | logo_url | string | Y |  Image Url | 
 | background_color | string | Y |  RGB or ARGB Code | 
 | title | string | Y |  Title | 
